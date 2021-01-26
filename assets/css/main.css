@@ -334,6 +334,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   top: 0px;
 }
 
+.navbar-header h2 {
+  color: black;
+}
+
 .top-nav-collapse .navbar-brand img {
   width: 65%;
 }
@@ -1230,7 +1234,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .footer-area .footer-text p a {
-  color: black;
+  color: #fff;
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
